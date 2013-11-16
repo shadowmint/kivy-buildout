@@ -1,0 +1,14 @@
+*.pyc
+__pycache__
+*.egg-info
+py
+build
+dist
+eggs
+develop-eggs
+bin
+.installed.cfg
+*.spec
+.idea
+target
+*.so
