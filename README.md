@@ -9,6 +9,15 @@ on osx and linux, but not on windows; to be cross platform nicely
 you are better using downloading kivy manually on the target system
 and loading it manually.
 
+### This example
+
+This is the plasma example from the kivy-examples repo, with the added lines:
+
+    import collada
+    import mechanize
+    import whatever
+
+To demonstrate how to work with other packages while using kivy.
 
 ### OSX
 
